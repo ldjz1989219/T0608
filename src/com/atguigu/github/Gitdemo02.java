@@ -6,6 +6,7 @@ public class Gitdemo02 {
 		System.out.println("hello github");
 		System.out.println("hello 0809");
 		System.out.println("hello 1010");
+		System.out.println("githubserver update 01=========");
 		
 	}
 
